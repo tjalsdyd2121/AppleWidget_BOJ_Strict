@@ -1,0 +1,1 @@
+# AppleWidget_BOJ_Strict
